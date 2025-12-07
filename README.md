@@ -14,3 +14,19 @@ Designed for **large LED strip projects (300+ LEDs)** with smooth animations and
 
 - 🟧 **Mode 2 – Streaming Comets**  
   Smooth one-direction comets with randomized speeds and respawn behavior.
+
+- 🔁 **Hardware Switching**  
+  Relay switches on/off 12V power supply (led strip works on the evenings)
+
+- ⚡ **Fully Non-Blocking Engine**  
+  Zero delays — all timing uses `millis()` for perfect smoothness.
+
+- 🧩 **Modular Code Design**  
+  Each mode is in its own function (`mode1()`, `mode2()`, `mode6()`), easy to extend.
+
+---
+
+## 📷 Demo Video
+
+> **🎬 Add your demo here!**  
+Upload a video to the GitHub repo or link a YouTube/short demo.
