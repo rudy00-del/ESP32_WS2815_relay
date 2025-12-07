@@ -33,7 +33,7 @@ Designed for **large LED strip projects (300+ LEDs)** with smooth animations and
 
 ![Real](media/real.jpg)
 
-## 📜 License
+## 📜 Web page
 
 ![Web](media/web.jpg)
 
