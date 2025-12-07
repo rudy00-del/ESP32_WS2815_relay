@@ -45,5 +45,4 @@ To avoid this, you must use a level shifter to convert the ESP32’s 3.3V data s
 
 ## 📷 Demo Video
 
-[Demo Video](media/20251130_162731.mp4)
-[Demo Video](media/20251130_162757.mp4)
+[Demo Video](https://www.youtube.com/watch?v=b9ys9abB3zY)
