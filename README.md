@@ -25,10 +25,11 @@ Designed for **large LED strip projects (300+ LEDs)** with smooth animations and
   Each mode is in its own function (`mode1()`, `mode2()`, `mode6()`), easy to extend.
 
 ---
-
-## 📷 Demo Video
+## 📐 Schematic
 
 ![Schematic](media/schematic.jpg)
+
+## 📷 Demo Video
 
 [Demo Video](media/20251130_162731.mp4)
 [Demo Video](media/20251130_162757.mp4)
