@@ -29,6 +29,14 @@ Designed for **large LED strip projects (300+ LEDs)** with smooth animations and
 
 ![Schematic](media/schematic.jpg)
 
+## 🔌 Wiring
+
+![Real](media/real.jpg)
+
+## 📜 License
+
+![Web](media/web.jpg)
+
 ## 📷 Demo Video
 
 [Demo Video](media/20251130_162731.mp4)
