@@ -28,5 +28,7 @@ Designed for **large LED strip projects (300+ LEDs)** with smooth animations and
 
 ## 📷 Demo Video
 
-> **🎬 Add your demo here!**  
-Upload a video to the GitHub repo or link a YouTube/short demo.
+![Schematic](media/schematic.jpg)
+
+[Demo Video](media/20251130_162731.mp4)
+[Demo Video](media/20251130_162757.mp4)
